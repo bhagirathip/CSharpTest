@@ -1,0 +1,6 @@
+E:\TestProject\CSharp6Test\CSharp6Test\bin\Debug\CSharp6Test.exe.config
+E:\TestProject\CSharp6Test\CSharp6Test\bin\Debug\CSharp6Test.exe
+E:\TestProject\CSharp6Test\CSharp6Test\bin\Debug\CSharp6Test.pdb
+E:\TestProject\CSharp6Test\CSharp6Test\obj\Debug\CSharp6Test.csprojResolveAssemblyReference.cache
+E:\TestProject\CSharp6Test\CSharp6Test\obj\Debug\CSharp6Test.exe
+E:\TestProject\CSharp6Test\CSharp6Test\obj\Debug\CSharp6Test.pdb
